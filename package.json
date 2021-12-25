@@ -1,6 +1,6 @@
 {
   "name": "@almontasser/api",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "An API Generator for Node.js",
   "main": "./lib/src/index.js",
   "files": [
