@@ -1,2 +1,2 @@
 export const myPackage = (taco = ''): string => `${taco} from my package`;
-export const test = () => 'test';
+export const test = () => console.log('test');
